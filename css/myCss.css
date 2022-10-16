@@ -1,8 +1,9 @@
 body {
-    background-image: url("../img/bg.jpg");
+    background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2F960a304e251f95cacc613d50c8177f3e660952bb&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1668524473&t=d3ec2f51eb7466dece4fa3340d38bb2d");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+    /*background-size: 100% ;*/
 
 }
 
@@ -11,6 +12,6 @@ blockquote {
     line-height: 30px;
     border-left: 5px solid white;
     padding-left: 20px;
-    background: rgba(255, 255, 255, 0.4);
+    /*background: rgba(255, 255, 255, 0.4);*/
 
 }
