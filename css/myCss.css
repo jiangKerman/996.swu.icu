@@ -1,0 +1,16 @@
+body {
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+blockquote {
+    /*text-indent: 10px ;*/
+    line-height: 30px;
+    border-left: 5px solid white;
+    padding-left: 20px;
+    background: rgba(255, 255, 255, 0.4);
+
+}
